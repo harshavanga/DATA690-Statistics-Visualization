@@ -1,6 +1,5 @@
 #  Sravya Pamula
 
-<img src="assignment_01/ProfilePic.jpeg" width="200">
 <img src="assignment_01/ProfilePic.jpeg" width="200" height="200" />
 
 ### Contact Information:
