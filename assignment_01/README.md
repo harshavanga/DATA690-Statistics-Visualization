@@ -4,7 +4,8 @@
 
 ### Contact Information:
 Email: sravyap1@umbc.edu, pamula.sravya@gmail.com
-Github profile: https://github.com/Pam2020
+
+GitHub profile: https://github.com/Pam2020
 
 ### Experience:
 
