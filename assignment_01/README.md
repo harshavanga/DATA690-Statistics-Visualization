@@ -1,6 +1,6 @@
 #  Sravya Pamula
 
-![](assignment_01/ProfilePic.jpeg =100*50 )
+![](assignment_01/ProfilePic.jpeg)
 <img src="assignment_01/ProfilePic.jpeg" width="200">
 
 ### Contact Information:
