@@ -15,7 +15,7 @@ GitHub profile: https://github.com/Pam2020
 
 ### Education:
 
-1. MS in data science at **UMBC**
+1. MS in data science at **UMBC** (current)
 2. BS-MS dual degree in pure sciences at **Indian Institute of Science Education and Research, Pune, India**
 
 ### Technical Skills:
