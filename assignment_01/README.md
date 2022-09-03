@@ -1,7 +1,7 @@
 #  Sravya Pamula
 
-![](assignment_01/ProfilePic.jpeg)
 <img src="assignment_01/ProfilePic.jpeg" width="200">
+<img src="assignment_01/ProfilePic.jpeg" width="200" height="200" />
 
 ### Contact Information:
 Email: sravyap1@umbc.edu, pamula.sravya@gmail.com
