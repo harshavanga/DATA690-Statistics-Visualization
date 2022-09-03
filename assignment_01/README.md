@@ -27,7 +27,16 @@ GitHub profile: https://github.com/Pam2020
 
 ### Awards: 
 
-- INSPIRE fellow: Recipient of Scholarship for Higher Education (SHE) under Innovation in science pursuit for Inspired Research (INSPIRE), Department of Science and Technology (DST), Government of India from August 2014 to April 2019
+- **INSPIRE fellow**: Recipient of Scholarship for Higher Education (SHE) under Innovation in science pursuit for Inspired Research (INSPIRE), Department of Science and Technology (DST), Government of India from August 2014 to April 2019
+
+### Social Activities:
+
+- **REACH together program**: I worked as a math tutor with UMBC as a part of the REACH together program at Baltimore city schools this summer.
+
+### Miscellaneous:
+
+- **Interests**: Playing badminton, reading, sudoko, music, walking, exploring different foods and spending time with friends/family
+
 
 
 
