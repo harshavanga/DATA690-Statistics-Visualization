@@ -1,6 +1,6 @@
 #  Sravya Pamula
 
-<img src="https://github.com/Pam2020/DATA690-Statistics-Visualization/blob/main/assignment_01/ProfilePic.jpeg" width="220" height="250" />
+<img src="https://github.com/Pam2020/DATA690-Statistics-Visualization/blob/main/assignment_01/ProfilePic.jpeg" width="330" height="350" />
 
 ### Contact Information:
 Email: sravyap1@umbc.edu, pamula.sravya@gmail.com
