@@ -11,7 +11,7 @@ GitHub profile: https://github.com/Pam2020
 
 * **Research Student**: Worked as a research student in India. I am a science enthusiast and like discussing exciting science ideas with like minded people. 
 - **Teacher**: I have worked with an EduTech startup and volunteered with NGOs to teach physics and mathematics to high school stduents. I enjoy teaching and the process of learning.
-- **Data Science Enthusiast**: I am interested in using machine learning/Data science ideas to solve interesting real world problems.
+- **Data Science Enthusiast**: I am interested in using machine learning/data science ideas to solve interesting real world problems.
 
 ### Education:
 
