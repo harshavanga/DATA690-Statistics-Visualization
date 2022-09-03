@@ -1,7 +1,7 @@
 #  Sravya Pamula
 
 ![Profile Pic](ProfilePic.jpeg, height = 300)
-<img src="https://github.com/Pam2020/DATA690-Statistics-Visualization/blob/main/assignment_01/ProfilePic.jpeg"  width="400" height="400">
+<img src="https://github.com/Pam2020/DATA690-Statistics-Visualization/blob/main/assignment_01/ProfilePic.jpeg"  width="400" height="600">
 
 ### Contact Information:
 Email: sravyap1@umbc.edu, pamula.sravya@gmail.com
