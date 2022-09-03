@@ -1,6 +1,6 @@
 #  Sravya Pamula
 
-![Profile Pic](ProfilePic.jpeg =40x20)
+![Profile Pic](ProfilePic.jpeg | width=100)
 
 ### Contact Information:
 Email: sravyap1@umbc.edu, pamula.sravya@gmail.com
