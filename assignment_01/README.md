@@ -1,6 +1,7 @@
 #  Sravya Pamula
 
 ![Profile Pic](ProfilePic.jpeg, height = 300)
+<img src="https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg"  width="600" height="300">
 
 ### Contact Information:
 Email: sravyap1@umbc.edu, pamula.sravya@gmail.com
