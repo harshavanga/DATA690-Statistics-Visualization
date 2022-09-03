@@ -16,7 +16,19 @@ GitHub profile: https://github.com/Pam2020
 ### Education:
 
 1. MS in data science at **UMBC**
-2. BS-MS dual degree in pure sciences at **Indian Institute of Science Education and Research, Pune, India** 
+2. BS-MS dual degree in pure sciences at **Indian Institute of Science Education and Research, Pune, India**
+
+### Technical Skills:
+
+- **OS**: Linux, Windows
+- **Programming Languages**: Python, C/C++, R and Matlab
+- **Data Skills**: SQL, Pandas, Matplotlib, Scikit-learn, Machine learning, Tableau, MongoDB, Apache Spark, AWS Cloud
+- **Version Control**: Git
+
+### Awards: 
+
+- INSPIRE fellow: Recipient of Scholarship for Higher Education (SHE) under Innovation in science pursuit for Inspired Research (INSPIRE), Department of Science and Technology (DST), Government of India from August 2014 to April 2019
+
 
 
 
