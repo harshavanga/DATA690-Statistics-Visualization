@@ -1,6 +1,6 @@
 #  Sravya Pamula
 
-![](name of the image file)
+![](ProfilePic)
 
 ### Contact Information:
 Email: sravyap1@umbc.edu, pamula.sravya@gmail.com
