@@ -16,6 +16,7 @@ def sampleset(n):
   return lst
 
 # functions to generate descriptive statistics
+
 def minimum(lst):
   minval = lst[0]
   for i in lst:
