@@ -49,10 +49,9 @@ def variance(lst):
     tot += (i - avg)**2
   return tot/(len(lst)-1)
 
-import math
 def stdd(lst):
   var = variance(lst)
-  return math.sqrt(var)
+  return var**0.5
 
 # calling the defined functions
 
